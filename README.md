@@ -13,6 +13,9 @@ hugging face embedding
 
 
 ====== INSTA & YOUTUBE LINK ====
+
 RAG LLM PROMO --> youtube.com/watch?v=OLeBDK2KD68&t=3s
+
 RAG LIVE WORKSHOP --> youtube.com/watch?v=8nWjvn8ZKtU
+
 INSTAGRAM ==> instagram.com/p/C-uucfiSqY7/
